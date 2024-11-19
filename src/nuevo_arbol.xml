@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<arbol_genealogico>
+                
+    
+    
+    <persona apellido1="Gómez" apellido2="López" nacimiento="1940" nombre="Carlos">
+                                
+        
+        
+        <hijos>
+                                                
+            
+            
+            <hijo apellido1="Gómez" apellido2="Martínez" nacimiento="1965" nombre="Luis">
+                                                                
+                
+                
+                <hijos>
+                                                                                
+                    
+                    
+                    <hijo apellido1="Gómez" apellido2="Sánchez" nacimiento="1985" nombre="Ana">
+                                                                                                
+                        
+                        
+                        <hijos>
+                                                                                                                
+                            
+                            
+                            <hijo apellido1="Gómez" apellido2="Torres" nacimiento="2010" nombre="Sofía">
+                                                                                                                                
+                                
+                                
+                                <hijos>
+                                                                                                                                                
+                                    
+                                    
+                                    <hijo apellido1="Gómez" apellido2="Ruiz" nacimiento="2035" nombre="Mateo">
+                                                                                                                                                                
+                                        
+                                        
+                                        <hijos>
+                                                                                                                                                                                
+                                            
+                                            
+                                            <hijo apellido1="Gómez" apellido2="Hernández" nacimiento="2060" nombre="Lucía"/>
+                                                                                                                                                                                
+                                            
+                                            
+                                            <hijo apellido1="Gómez" apellido2="Hernández" nacimiento="2062" nombre="Diego"/>
+                                                                                                                                                                            
+                                        
+                                        
+                                        </hijos>
+                                                                                                                                                            
+                                    
+                                    
+                                    </hijo>
+                                                                                                                                                
+                                    
+                                    
+                                    <hijo apellido1="Gómez" apellido2="Ruiz" nacimiento="2038" nombre="Valeria"/>
+                                                                                                                                            
+                                    
+                                    
+                                    <hijo apellido1="Gómez" apellido2="López" nacimiento="2070" nombre="Eva"/>
+                                                                                                        
+                                    
+                                    <hijo apellido1="Gómez" apellido2="López" nacimiento="2070" nombre="Eva"/>
+                                                                    
+                                    <hijo apellido1="Gómez" apellido2="López" nacimiento="2070" nombre="Eva"/>
+                                </hijos>
+                                                                                                                            
+                            
+                            
+                            </hijo>
+                                                                                                                
+                            
+                            
+                            <hijo apellido1="Gómez" apellido2="Torres" nacimiento="2012" nombre="Tomás"/>
+                                                                                                            
+                        
+                        
+                        </hijos>
+                                                                                            
+                    
+                    
+                    </hijo>
+                                                                                
+                    
+                    
+                    <hijo apellido1="Gómez" apellido2="Sánchez" nacimiento="1987" nombre="Pedro">
+                                                                                                
+                        
+                        
+                        <hijos>
+                                                                                                                
+                            
+                            
+                            <hijo apellido1="Gómez" apellido2="Morales" nacimiento="2015" nombre="Lola"/>
+                                                                                                            
+                        
+                        
+                        </hijos>
+                                                                                            
+                    
+                    
+                    </hijo>
+                                                                            
+                
+                
+                </hijos>
+                                                            
+            
+            
+            </hijo>
+                                                
+            
+            
+            <hijo apellido1="Gómez" apellido2="Martínez" nacimiento="1970" nombre="María">
+                                                                
+                
+                
+                <hijos>
+                                                                                
+                    
+                    
+                    <hijo apellido1="Pérez" apellido2="Gómez" nacimiento="1995" nombre="Andrés"/>
+                                                                                
+                    
+                    
+                    <hijo apellido1="Pérez" apellido2="Gómez" nacimiento="1998" nombre="Elena"/>
+                                                                            
+                
+                
+                </hijos>
+                                                            
+            
+            
+            </hijo>
+                                            
+        
+        
+        </hijos>
+                            
+    
+    
+    </persona>
+            
+
+
+</arbol_genealogico>
